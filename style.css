@@ -1,0 +1,43 @@
+.body{
+	padding: 0;
+	margin: 0;
+}
+ul{
+	margin-left: 10px;
+}
+header{
+	display: flex;
+	background-color: magenta;
+
+}
+
+ ul li{
+	list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 10px;
+}
+ul li a{
+	text-decoration: none;
+	font-size: 14px;
+	font-family: arial;
+	color: pink;
+	padding 10 20px;
+	display: inline-block;
+	align-items: center;
+	margin-right: 10px;
+	
+}
+ ul li a:hover{
+	color: green;
+}
+
+
+footer{
+	padding: 10px;
+	background-color: grey;
+	margin: 10px;
+	text-align: center=;
+}
+
+    
